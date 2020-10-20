@@ -1,0 +1,2 @@
+7344=Name :Surya sama,Phoneno:7032052989,Address:kukkatpallyu,Account number:324235435,Account type:Savings,Balance:6500.0*7344=Name :Surya sama,Phoneno:7032052989,Address:kukkatpally,Account number:32534543534,Account type:Current,Balance:100.0*
+8685=Name :Tarun Reddy,Phoneno:6477814963,Address:av info,Account number:43534535,Account type:Savings,Balance:3400.0*8685=Name :Tarun Reddy,Phoneno:6477814963,Address:av info,Account number:3435335,Account type:Current,Balance:4440.0*
